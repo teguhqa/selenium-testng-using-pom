@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="selenium.execution.Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-24T13:33:01" hostname="MTNB884" time="84.06">
+  <properties/>
+  <testcase name="Login_Case" classname="selenium.execution.Test" time="84.06"/>
+  <system-out><![CDATA[Username entered : Admin
+Password entered : admin123
+Login button clicked
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
